@@ -72,24 +72,58 @@ h1 {
     font-size: 16px;
 }
 
+.check {
+    color: #008000;
+    border: 1px solid #008000;
+}
+
+.cross {
+    color: #ff0000;
+    border: 1px solid #ff0000;
+}
+
 .circle {
     width: 20px;
     height: 20px;
-    color: #008000;
-    border: 1px solid #008000;
     border-radius: 50%;
     line-height: 20px;
     text-align: center;
 }
+    
+.sky-blue {
+    background-color:#47adf1;
+}
 
-.ticket-blue {
+.violet {
+    background-color:#9C72E4;
+}
+
+.ticket {
     color: #ffffff;
     padding: 5px;
     font-size: 12px;
-    background-color: #47adf1;
     border-radius: 6%;
+}
+
+.green {
+    background-color: #64C0A9;
+}
+
+.orange {
+    background-color: #efa53d;
 
 }
+
+.pink {
+    background-color: #D863A0;
+}
+
+.green-variant {
+    background-color: #99da01;
+}
+
+
+
 
 
 
