@@ -1,0 +1,15 @@
+/* Generics */
+* {
+   font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+    background-color: #808080;
+    margin: 0;
+}
+
+.container {
+    height: 100px;
+    background-color: #ffffff;
+}
