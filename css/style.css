@@ -63,6 +63,15 @@ h1 {
     border-bottom: 2px solid #DDE0E4 ;
 }
 
+.text-bold {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.text-medium {
+    font-size: 16px;
+}
+
 .circle {
     width: 20px;
     height: 20px;
@@ -73,19 +82,15 @@ h1 {
     text-align: center;
 }
 
-.main-text {
-    display: inline-block;
-    font-size: 20px;
-}
-.ticket {
-    display: inline-block;
-    background-color:#47adf1;
-    border-radius: 10%;
+.ticket-blue {
+    color: #ffffff;
+    padding: 5px;
+    font-size: 12px;
+    background-color: #47adf1;
+    border-radius: 6%;
+
 }
 
-section div {
-    line-height: 50px;
-} 
 
 
 
