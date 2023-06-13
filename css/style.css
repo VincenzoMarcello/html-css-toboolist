@@ -33,7 +33,7 @@ h1 {
 
 .main-container {
     width: 1000px;
-    height: 1000px;
+    height: 700px;
     background-color: #ffffff;
     margin: 50px auto;
     border-radius: 1%;
@@ -45,6 +45,7 @@ ul {
 }
 
 .button-left {
+    margin-left: 40px;
     padding: 5px 7px;
     border-color: #47adf1;
     color: #ffffff;
@@ -125,6 +126,8 @@ ul {
 .green-variant {
     background-color: #99da01;
 }
+
+
 
 
 
