@@ -37,8 +37,11 @@ h1 {
     background-color: #ffffff;
     margin: 50px auto;
     border-radius: 1%;
-
     padding-top: 20px;
+}
+
+ul {
+    line-height: 50px;
 }
 
 .button-left {
@@ -83,6 +86,7 @@ h1 {
 }
 
 .circle {
+    margin-right: 10px;
     width: 20px;
     height: 20px;
     border-radius: 50%;
