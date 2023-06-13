@@ -6,7 +6,7 @@
 
 
 body {
-    background-color: #808080;
+    background-color:#DDE0E4 ;
     margin: 0;
 }
 
@@ -30,13 +30,14 @@ h1 {
 
 /* main */
 
+
 .main-container {
     width: 1000px;
     height: 1000px;
     background-color: #ffffff;
     margin: 50px auto;
     border-radius: 1%;
-    padding-left: 50px;
+
     padding-top: 20px;
 }
 
@@ -55,4 +56,36 @@ h1 {
     background-color: #ffffff;
     border-radius: 10%;
 }
+
+.row {
+    height: 45px;
+    padding-right: 0;
+    border-bottom: 2px solid #DDE0E4 ;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    color: #008000;
+    border: 1px solid #008000;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+}
+
+.main-text {
+    display: inline-block;
+    font-size: 20px;
+}
+.ticket {
+    display: inline-block;
+    background-color:#47adf1;
+    border-radius: 10%;
+}
+
+section div {
+    line-height: 50px;
+} 
+
+
 
